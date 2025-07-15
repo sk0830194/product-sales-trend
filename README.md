@@ -1,33 +1,39 @@
-# ¤•i”„‚èã‚°„ˆÚ•ªÍ 
- 
-–{ƒvƒƒWƒFƒNƒg‚Å‚ÍA‰Ë‹ó‚Ì”Ì”„ƒf[ƒ^‚ð—p‚¢‚ÄA¤•i‚²‚Æ‚Ì”„‚èã‚°„ˆÚ‚ð•ªÍ‚µ‚Ü‚µ‚½B 
- 
-## ?? ƒfƒBƒŒƒNƒgƒŠ\¬ 
- 
-product-sales-trend/ 
-„¥„Ÿ„Ÿ data/              # ƒf[ƒ^Ši”[ƒtƒHƒ‹ƒ_ 
-„    „¥„Ÿ„Ÿ item_master.csv 
-„    „¥„Ÿ„Ÿ customer_master.csv 
-„    „¥„Ÿ„Ÿ transaction.csv 
-„    „¤„Ÿ„Ÿ transaction_detail.csv 
-„¥„Ÿ„Ÿ notebook/ 
-„    „¤„Ÿ„Ÿ ¤•i”„‚èã‚°„ˆÚ.ipynb 
-„¥„Ÿ„Ÿ README.md 
-„¤„Ÿ„Ÿ .gitignore 
- 
-## ?? Žg—p‹Zp 
-- Python 3.x 
-- pandas 
-- matplotlib 
- 
-## ?? •ªÍ“à—e 
-- ¤•i‚²‚Æ‚Ì”„ã‹àŠziŒŽ•Êj 
-- •¡”¤•i‚ðÜ‚êüƒOƒ‰ƒt‚Å‰ÂŽ‹‰» 
- 
-## ?? ŽÀs•û–@ 
-1. Jupyter Notebook ‚Å `notebook/¤•i”„‚èã‚°„ˆÚ.ipynb` ‚ðŠJ‚­ 
-2. ƒf[ƒ^‚ª `data/` ƒtƒHƒ‹ƒ_‚É‚ ‚é‚±‚Æ‚ðŠm”F‚·‚é 
-3. ƒZƒ‹‚ð‡‚ÉŽÀs‚µ‚Ä‰ÂŽ‹‰»Œ‹‰Ê‚ðŠm”F‚·‚é 
- 
-## ?? •â‘« 
-‚±‚ÌƒvƒƒWƒFƒNƒg‚ÍuPython 100–{ƒmƒbƒNipandas•Òjv‚Ì“à—e‚ðƒx[ƒX‚É\’z‚µ‚Ä‚¢‚Ü‚·B 
+# å•†å“å£²ã‚Šä¸Šã’æŽ¨ç§»åˆ†æž
+
+æœ¬ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã¯ã€æž¶ç©ºã®è²©å£²ãƒ‡ãƒ¼ã‚¿ã‚’ç”¨ã„ã¦ã€å•†å“ã”ã¨ã®å£²ã‚Šä¸Šã’æŽ¨ç§»ã‚’åˆ†æžã—ã¾ã—ãŸã€‚
+
+## ðŸ“ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªæ§‹æˆ
+product-sales-trend/
+â”œâ”€â”€ data/ # ãƒ‡ãƒ¼ã‚¿æ ¼ç´ãƒ•ã‚©ãƒ«ãƒ€
+â”‚ â”œâ”€â”€ item_master.csv
+â”‚ â”œâ”€â”€ customer_master.csv
+â”‚ â”œâ”€â”€ transaction.csv
+â”‚ â””â”€â”€ transaction_detail.csv
+â”œâ”€â”€ notebook/
+â”‚ â””â”€â”€ å•†å“å£²ã‚Šä¸Šã’æŽ¨ç§».ipynb
+â”œâ”€â”€ README.md
+â””â”€â”€ .gitignore
+
+
+## ðŸ›  ä½¿ç”¨æŠ€è¡“
+
+- Python 3.x
+- pandas
+- matplotlib
+
+## ðŸ“Š åˆ†æžå†…å®¹
+
+- å•†å“ã”ã¨ã®å£²ä¸Šé‡‘é¡ï¼ˆæœˆåˆ¥ï¼‰
+- è¤‡æ•°å•†å“ã‚’æŠ˜ã‚Œç·šã‚°ãƒ©ãƒ•ã§å¯è¦–åŒ–
+
+## ðŸš€ å®Ÿè¡Œæ–¹æ³•
+
+1. Jupyter Notebookã§ `notebook/å•†å“å£²ã‚Šä¸Šã’æŽ¨ç§».ipynb` ã‚’é–‹ã
+2. ãƒ‡ãƒ¼ã‚¿ãŒ `data/` ãƒ•ã‚©ãƒ«ãƒ€ã«ã‚ã‚‹ã“ã¨ã‚’ç¢ºèªã™ã‚‹
+3. ã‚»ãƒ«ã‚’é †ã«å®Ÿè¡Œã—ã¦å¯è¦–åŒ–çµæžœã‚’ç¢ºèªã™ã‚‹
+
+## ðŸ’¡ è£œè¶³
+
+ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ã€ŒPython 100æœ¬ãƒŽãƒƒã‚¯ï¼ˆpandasç·¨ï¼‰ã€ã®å†…å®¹ã‚’ãƒ™ãƒ¼ã‚¹ã«æ§‹ç¯‰ã—ã¦ã„ã¾ã™ã€‚
+
+
